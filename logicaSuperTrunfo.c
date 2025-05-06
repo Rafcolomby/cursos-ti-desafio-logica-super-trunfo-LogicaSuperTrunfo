@@ -12,7 +12,7 @@ typedef struct {
     int pontos_turisticos;
     float densidade_populacional;
     float pib_per_capita;
-} Carta; // Aqui está o nome correto da struct
+} Carta; //
 
 // Função para calcular a densidade populacional e o PIB per capita
 void CalcularIndicadores(Carta *c) {
